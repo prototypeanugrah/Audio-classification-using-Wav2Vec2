@@ -1,6 +1,6 @@
 # Audio-classification-using-Wav2Vec2
 
-Task - Analyze audio files and extract the digit spoken in them and classify them into the following classes :
+Task - Analyze audio files and extract the digit spoken in them and classify them into the following classes -
       - one
       - three
       - four
